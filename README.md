@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hivlozt
-- 👀 I’m interested in cars computers
+- 👀 I’m interested in cars, computers, science.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
